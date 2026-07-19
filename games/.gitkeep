@@ -1,0 +1,2 @@
+# Put your game zip files here (named by Steam AppID, e.g. 730.zip, 1174180.zip)
+# The app will scan this folder automatically when running under Electron.
